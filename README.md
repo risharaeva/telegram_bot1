@@ -12,6 +12,8 @@ WhatsTheHoliday - бот в Телеграм, предназначенный д�
 * Получить токен в Open AI для Chat-GPT
 
 Как выглядит:
+
+
 ![Screenshot_7](https://github.com/risharaeva/telegram_bot1/assets/146364566/0b0122a3-2a14-4d05-b718-06393b6e8694)
 
 ![Screenshot_8](https://github.com/risharaeva/telegram_bot1/assets/146364566/f57a40b5-8f8a-441d-b057-34cc33d3dfa3)
